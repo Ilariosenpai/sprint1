@@ -102,3 +102,68 @@ h2{
 
     margin-top: 150px;
 }
+
+body {
+    width: 100%;
+    height: 100%;
+  }
+  .secfonction {
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 80, 32, 0.79);
+    justify-content: space-around;
+  }
+  .imgfonction {
+    margin-left: 0%;
+    width: auto;
+    height: 300px;
+    float: left;
+  }
+  .imgformulaire {
+    height: 300px;
+    width: auto;
+  }
+  .secformulaire {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  form {
+    border: 2px black solid;
+  }
+  .inputform {
+   border: 2px black solid;
+  }
+  footer {
+    background-color: black;
+    align-items: center;
+    justify-content: space-around;
+    overflow: hidden;
+  }
+  
+  footer p {
+      text-align: center;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content:right;
+    margin-right: 30px;
+    
+  }
+  .logo a {
+      margin: 20px;
+  }
+  .facebook {
+    height: 20px;
+    color: white;
+  }
+  .twitter {
+    height: 20px;
+    color: white;
+  }
+  .instagram {
+    height: 20px;
+    color: white;
+  }
