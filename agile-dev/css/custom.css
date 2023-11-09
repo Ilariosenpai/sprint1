@@ -1,0 +1,104 @@
+a {
+    text-decoration: none;
+}
+
+
+
+
+.nav-wrapper{
+
+    background-color: black;
+
+}
+
+
+
+.brand-logo{
+
+width: 80px;
+margin-left: 40px;
+    
+}
+
+#boutonipsum {
+
+    background-color:rgb(255, 255, 255);
+    color: black;
+}
+
+.mockup{
+
+    float: right;
+    margin-right: 180px;
+    margin-top: 50px;
+
+}
+
+h1{
+
+    text-align: center;
+    margin-top: 290px;
+}
+
+.citation{
+
+    text-align: center;
+}
+
+.google{
+
+   width: 150px;
+    float: left;
+    margin-left: 280px;
+    margin-top: 60px;
+
+}
+
+.appstore{
+
+    width: 150px;
+    margin-left:120px;
+    margin-top: 60px;
+    
+}
+
+
+.partieun{
+
+background-color: #e51c23 ;
+
+
+}
+
+
+
+.partiedeux{
+
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: antiquewhite;
+
+
+}
+
+.isometr{
+
+    float: left;
+    margin-top: 150px;
+}
+
+.béné{
+
+    text-align:left;
+}
+
+#bdeux{
+
+    background-color: black;
+}
+
+h2{
+
+    margin-top: 150px;
+}
